@@ -2,9 +2,5 @@
 .env.local
 .env.*.local
 venv/
-<<<<<<< HEAD
-__pycache__/
-=======
 __pycache__/
 storage/
->>>>>>> 94faf01 (Add 03_indexing_and_simple_queries notebook and update .gitignore to ignore the storage directory.)
